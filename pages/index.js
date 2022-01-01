@@ -6,15 +6,22 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>MARS Landing Page</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="MARS Landing" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+         Hello! You have reached a sample page by <a href="https://marketactionresearch.com">Market Action Research, Inc.</a>
         </p>
+    
+        <h2>What is this?</h2>
+         <ul> 
+            <li>This is a placeholder landing page.</li>
+            <li>Need a new website or ecommerce platform? Contact <a href="https://marketactionresearch.com">MARS</a> today!</li>
+         </ul>
+      
       </main>
 
       <Footer />
