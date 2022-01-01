@@ -17,12 +17,13 @@ export default function Home() {
         </p>
     
         <p>Market Action Reseaerch is a professional web development, marketing and tech consulting company based in Los Angeles, CA 🏖️ </p>
+         <p>Need a new website or ecommerce platform? Contact <a href="https://marketactionresearch.com">MARS</a> today!</p>
     
         <h2>What is this?</h2>
          <ul> 
             <li>This is a placeholder landing page that might be 😎 coming soon or 🤔 is no more.</li>
-            <li>This is happening because the domain points to our server, but they do not have a site yet!</li>
-            <li>Need a new website or ecommerce platform? Contact <a href="https://marketactionresearch.com">MARS</a> today!</li>
+            <li>This is happening because the domain points to our server, but they do not have a site set-up with us yet!</li>
+            <li>Think this is error? Please contact your domain provider to update your domain records</li>
          </ul>
       
       </main>
